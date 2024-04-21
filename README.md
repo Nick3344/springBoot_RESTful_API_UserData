@@ -2,6 +2,9 @@
 
 This SpringBoot project demonstrates the implementation of a simple RESTful API for managing user data. It includes endpoints to retrieve user information based on their ID.
 
+## ![image](https://github.com/Nick3344/springBoot_RESTful_API_UserData/assets/114958232/ca6a4453-6ee0-437e-91dd-82b73b96d741)
+
+
 ### Prerequisites
 
 - Java Development Kit (JDK) 8 or higher
